@@ -26,15 +26,16 @@ cubeImage.toPng('./cube.png');
 
 ## API
 
-**Constructor**
-constructor accept five inputs:
-- left: left texture
-- right: right texture
-- top: top texture
-- scale: (optional)scale the output image
-- info: (optional)can pass some data and get by `cubeImage.getPixels`
+**Constructor**  
 
-**Output**
+constructor accepts five inputs:
+- `left`: left texture
+- `right`: right texture
+- `top`: top texture
+- `scale`: (optional)scale the output image
+- `info`: (optional)can pass some data and get by `cubeImage.getPixels`
+
+**Output**  
 
 - `cubeImage.toCanvas(element)`: append a canvas to element.
 - `cubeImage.toCanvas()`: append a canvas to body
