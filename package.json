@@ -1,0 +1,20 @@
+{
+  "name": "Texture2Cube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Necolo/Texture2Cube.git",
+  "author": "Necolo Lv.C",
+  "scripts": {
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^9.6.6",
+    "bit-twiddle": "^1.0.2",
+    "color-blend": "^1.0.3",
+    "get-pixels": "^3.3.0",
+    "ndarray-ops": "^1.2.2",
+    "ndarray-warp": "^1.0.1",
+    "save-pixels": "^2.3.4",
+    "typescript": "^2.8.3"
+  }
+}
