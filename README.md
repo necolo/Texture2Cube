@@ -41,3 +41,6 @@ constructor accepts five inputs:
 - `cubeImage.toCanvas()`: append a canvas to body
 - `cubeImage.toPng('result.png')` output to a png file  
 - `cubeImage.getPixels(callback(pixels, info))`: pixels are the ndarray type of the result image data, info is the data from constructor. 
+
+# todos
+- add image for better example
